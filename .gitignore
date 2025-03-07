@@ -1,1 +1,4 @@
 datasets/music_sample/
+
+.venv/
+.idea/
